@@ -1,4 +1,4 @@
-import time
+
 from ping3 import ping
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
